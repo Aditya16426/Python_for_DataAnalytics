@@ -1,2 +1,3 @@
 # Data analytics basic programs using python 
-author :Aditya Niranjan
+Author :Aditya Niranjan
+This is my first repo
